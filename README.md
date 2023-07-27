@@ -4,7 +4,7 @@
 
 [⏬ Skip to Content ⏬](#password-managers)
 
-## Intro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Intro 
 
 Large data-hungry corporations dominate the digital world but with little, or no respect for your privacy.
 Migrating to open-source applications with a strong emphasis on security will help stop
@@ -12,7 +12,6 @@ corporations, governments, and hackers from logging, storing or selling your per
 
 **Note**: Remember that [no software is perfect](#disclaimer), and it is important to follow good [security practices](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md#contents).
 
-A Codeberg mirror is available [here](https://codeberg.org/alicia/awesome-privacy).
 
 ### Categories
 
@@ -1574,9 +1573,7 @@ This list was focused on privacy-respecting software. Below are other awesome li
 - Server: [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) by 'many'
 - [**More GitHub Awesome Lists →**](https://github.com/Lissy93/personal-security-checklist/blob/master/4_Privacy_And_Security_Links.md#more-awesome-github-lists)
 
-## News & Updates
 
-A custom Reddit feed covering news and updates for privacy-respecting apps, software & services can be found [here](https://www.reddit.com/user/lissy93/m/software_projects/)
 
 ## Final Notes
 
@@ -1617,39 +1614,6 @@ When selecting a new application, ensure it is still being regularly maintained,
 This list contains packages that range from entry-level to advanced, a lot of the software here will not be appropriate for all audiences. It is in no way a definitive list of secure applications, and aims only to be a guide, a collection of software and services that myself and other contributors have used, and would recommend. There will always be new vulnerabilities discovered or introduced, bugs and security-critical glitches, malicious actors and poorly configured systems. It is up to you to do your research, draw up a threat model, and decide where and how your data are managed.
 
 If you find something on this list that should no longer be deemed secure or private/ or should have a warning note attached, please raise an issue. In the same way if you know of something that is missing, or would like to make an edit, then pull requests are welcome, and are much appreciated!
-
-### Contributors
-
-This is a community-maintained project, which wouldn't have been possible without help from [all these wonderful people](https://github.com/Lissy93/awesome-privacy/blob/main/.github/CREDITS.md).
-
-Top Contributors:
-
-<a title="Click to view all contributors" href="https://github.com/Lissy93/awesome-privacy/blob/main/.github/CREDITS.md">
-  <img src="https://github.com/Lissy93/awesome-privacy/raw/main/.github/assets/CONTRIBUTORS.svg" alt="Top Contributors" width="600" />
-</a>
-
-### Contributing
-
-*Thanks for visiting! If you have suggestions, then you [open an issue](https://github.com/Lissy93/awesome-privacy/issues/new/choose), or [submit a PR](https://github.com/Lissy93/awesome-privacy/pull/new/main), see: [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md). Contributions are welcome, and always much appreciated* ☺️
-
-
-### License 
-
-[![Attribution 4.0 International](https://licensebuttons.net/l/by/3.0/88x31.png)](https://github.com/Lissy93/awesome-privacy/blob/main/LICENSE)
-
-*Licensed under [Creative Commons, CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © [Alicia Sykes](https://aliciasykes.com) 2022*
-
-
-### Thank you
-
-Thank you for checking out this project - I hope you found it somewhat useful 😊
-
-This list was initially compiled by Alicia Sykes / [:octocat: @Lissy93](https://github.com/Lissy93), with a lot of help from the community.
-
-Follow me on GitHub for updates and other projects.
-
-If you found this project helpful, consider dropping us a star, and sharing with your network.
-
 
 
 [//]: # (BROWSER EXTENSION LINKS)
